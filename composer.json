@@ -1,0 +1,13 @@
+{
+    "name": "x/test_composer",
+    "description": "A small test with composer",
+    "require": {
+        "nesbot/carbon": "~1.17"
+    },
+    "authors": [
+        {
+            "name": "Lionel Thonon",
+            "email": "lionel.thonon@gmail.com"
+        }
+    ]
+}
