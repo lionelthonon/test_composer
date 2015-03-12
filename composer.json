@@ -4,6 +4,11 @@
     "require": {
         "nesbot/carbon": "~1.17"
     },
+    "autoload": {
+        "psr-4": {
+            "Test\\": "classes/"
+        }
+    },
     "authors": [
         {
             "name": "Lionel Thonon",
